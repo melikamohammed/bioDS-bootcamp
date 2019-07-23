@@ -1,7 +1,7 @@
 #### Preparation of RNAseq data ####
 
 # This script includes some manipulations of the data that need to occur to have everything ready for analysis.
-
+# i made a comment
 # install packages
 if (!requireNamespace("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
